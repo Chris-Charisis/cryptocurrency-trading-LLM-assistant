@@ -1,0 +1,1 @@
+# cryptocurrency-trading-LLM-assistant
